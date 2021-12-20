@@ -7,6 +7,6 @@
 
 # Instructions
 
-    1.  Run Beego_API_with_swagger_UI project using <strong>bee run</strong>
-    2.  Run this project using bee run
+    1.  Run Beego_API_with_swagger_UI project using "bee run"
+    2.  Run this project using "bee run"
     3.  Enter and submit data
